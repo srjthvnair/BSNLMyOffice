@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/bsnlkerala/Developer/flutterApp/myoffice/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h

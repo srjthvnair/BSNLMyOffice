@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "f3affd5aa920a668539a18096d27eea98d0f8ccf481282bad70a933e220e7f8e"
+build_start_time: [1691589705, 848214000]
+build_end_time: [1691589705, 912793000]
+inputs:
+  "/Users/bsnlkerala/Developer/flutterApp/myoffice/ios/Runner/AppDelegate.swift": !private [1689202870, 0]
